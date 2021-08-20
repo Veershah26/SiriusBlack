@@ -1,0 +1,112 @@
+[
+    {
+        "SpellName": "Expelliarmus",
+        "URL": "https://tenor.com/IvH5.gif",
+        "Power": "1",
+        "Damage": "10",
+        "Healing": "0",
+        "Description": "Basic Spell",
+        "Speed": ["Fast"],
+        "ifdefence": "true",
+        "ifattack": "false"
+    },
+    {
+        "SpellName": "Fiendfyre",
+        "URL": "https://s3.amazonaws.com/si-fl-wp/wp-content/uploads/20161201084942/Voldemort-fire-snake.gif",
+        "Power": "20",
+        "Damage": "200",
+        "Healing": "0",
+        "Description": "Summons Massive Enchanted Spells, 0 Damage In Next 2 Spells, No Healing For Rest Of Dual",
+        "Speed": ["Slow"],
+        "ifdefence": "false",
+        "ifattack": "true"
+    },
+    {
+        "SpellName": "Bombardo",
+        "URL": "https://i.stack.imgur.com/VeUYj.gif",
+        "Power": "15",
+        "Damage": "150",
+        "Healing": "50",
+        "Description": "Creates an explosion on the target",
+        "Speed": ["Slow"],
+        "ifdefence": "false",
+        "ifattack": "true"
+    },
+    {
+        "SpellName": "Brackium Emendo ",
+        "URL": "https://64.media.tumblr.com/94fa730d9b64f6eabb940c34bae8fad6/tumblr_oxknehkMHG1uy3ut1o1_r1_500.gifv",
+        "Power": "20",
+        "Damage": "0",
+        "Healing": "100",
+        "Description": "Heals broken bones of the user!",
+        "Speed": ["Slow"],
+        "ifdefence": "true",
+        "ifattack": "false"
+    },
+    {
+        "SpellName": "Periculum",
+        "URL": "https://pa1.narvii.com/6223/e834dbc4c0945d3c8ce19ed90da81783d57d0de0_hq.gif",
+        "Power": "2",
+        "Damage": "20",
+        "Healing": "30",
+        "Description": "Conjures Flares That Confuse The Enemy",
+        "Speed": ["Fast"],
+        "ifdefence": "true",
+        "ifattack": "false"
+    },
+    {
+        "SpellName": "Petrificus Totalus",
+        "URL": "https://i.stack.imgur.com/VeUYj.gif",
+        "Power": "8",
+        "Damage": "0",
+        "Healing": "30",
+        "Description": "Freezes the enemy and skips their next turn",
+        "Speed": ["Fast"],
+        "ifdefence": "true",
+        "ifattack": "false"
+    },
+    {
+        "SpellName": "Protego",
+        "URL": "https://th.bing.com/th/id/R3833a92b2f0db23f4f5af6be74358141?rik=AzMwUDuKq51aeA&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20111124223318%2fharrypotter%2fimages%2fd%2fdb%2fProtegomaximahs.gif&ehk=M6BIoxeeRL5C03zcPOlgcIYfZygKR%2b0SzHxRnRNrDQw%3d&risl=&pid=ImgRaw",
+        "Power": "10",
+        "Damage": "0",
+        "Healing": "0",
+        "Description": "Creates A Shield That Dampens The Blow Of The Next 2 Attacks",
+        "Speed": ["Fast"],
+        "ifdefence": "true",
+        "ifattack": "false"
+    },
+    {
+        "SpellName": "Rictusempra",
+        "URL": "https://pa1.narvii.com/6332/512707571048f11025d2c8fc3bf1294977c7594b_hq.gif",
+        "Power":"10",
+        "Damage": "50",
+        "Healing": "0",
+        "Description": "Makes The Enemy Laugh Until They Get Hurt",
+        "Speed": ["Slow"],
+        "ifdefence": "true",
+        "ifattack": "false" 
+    },
+    {
+        "SpellName": "Wingardium Leviosa",
+        "URL": "https://media.giphy.com/media/RyLtUMBdogHvO/200.gif",
+        "Power": "10",
+        "Damage": "100",
+        "Healing": "0",
+        "Description": "Makes The Enemy Float, & Crashes Them",
+        "Speed": ["Slow"],
+        "ifdefence": "false",
+        "ifattack": "true" 
+    },
+    {
+        "SpellName": "Impedimenta",
+        "URL": "https://th.bing.com/th/id/R93f93d3fdf0f28733159f5df19c29a5a?rik=kqyhWMRWM%2bgktw&riu=http%3a%2f%2f78.media.tumblr.com%2ftumblr_lhr0vonR581qa8ir9o1_500.gif&ehk=aIs2MepfhJkKWhDFqJLOORSWeVo25YnAGz2pj%2bqADrk%3d&risl=&pid=ImgRaw",
+        "Power": "10",
+        "Damage": "0",
+        "Healing": "0",
+        "Description": "Slows The Movement Of Target & Reduces Their Attack Damage By 50% For The Next Two Rounds",
+        "Speed": ["Fast"],
+        "ifdefence": "true",
+        "ifattack": "false" 
+    }
+]
